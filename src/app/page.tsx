@@ -110,8 +110,6 @@ export default function Home() {
           </p>
         </a>
       </div> */}
-
-      <h1>Hello from rahul </h1>
       <HeroSection />
       </main>
   );
