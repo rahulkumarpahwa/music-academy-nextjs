@@ -31,3 +31,26 @@ body {
     text-wrap: balance;
   }
 }
+
+/* @layer utilities {
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+} */
+
+html,
+body {
+/* Hide both horizontal and vertical scrollbars /
+/* WebKit (Chrome, Safari, etc.) */
+::-webkit-scrollbar {
+    display: none;
+  }
+
+/* Firefox */
+scrollbar-width: none;
+  -ms-overflow-style: none;
+}
