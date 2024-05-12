@@ -57,7 +57,7 @@ const About = () => {
             About Us{" "}
           </h2>
           <p className="text-base">
-            This is an Music Learning App made using Nextjs + TypeScript. The
+            This is an Music Academy App made using Nextjs + TypeScript. The
             four Page have different components as below:
             <div className="grid grid-cols-4 gap-2 my-2">
               <div className="border border-gray-500 p-2 rounded-lg">
