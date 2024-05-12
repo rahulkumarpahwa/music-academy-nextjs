@@ -1,6 +1,6 @@
 # Intoduction :
 
-This is an Music Academy App made by (Rahul Kumar)[https://linkedin.com/in/rahulkumarpahwa] using Nextjs + TypeScript. It is the starting project for learning Nextjs. There are four Page, which has different components as below :
+This is an Music Academy App made by [Rahul Kumar](https://linkedin.com/in/rahulkumarpahwa) using Nextjs + TypeScript. It is the starting project for learning Nextjs. There are four Page, which has different components as below :
 
 | Home Page            |        Our Courses        |  Contact Us  | About Us |
 | -------------------- | :-----------------------: | :----------: | :------: |
@@ -11,10 +11,11 @@ This is an Music Academy App made by (Rahul Kumar)[https://linkedin.com/in/rahul
 | Music Instructors    |        And More...        |              |          |
 
 # Tech Stack :
+
 - Nextjs
 - TailwindCSS
 - AceternityUI
 - TypeScript
 - JSX
 
-# Live : (Music Academy)[https://music-academy-app-nextjs.vercel.app/]
+# Live : [Music Academy](https://music-academy-app-nextjs.vercel.app/)
